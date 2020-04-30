@@ -1,0 +1,51 @@
+#div1
+{
+	background-color: rgba(255, 0, 0, 0.2);
+	border-radius: 35px;
+	border-color: rgba(255,0,1,0.4);
+	border-style: outset;
+	background-position: center;
+	text-align: center;
+}
+
+#input_field
+{
+    border-radius: 25px;
+    width: 200px;
+    height: 30px;
+    padding: 6px;
+    text-align: center;
+    margin-bottom: 16px;
+    margin-top: 10px;
+}
+
+#button
+{
+    border-radius: 25px;
+    width: 90px;
+    height: 30px;
+    padding: 4px;
+    cursor: pointer;
+    margin-bottom: 16px;
+    margin-top: 10px;
+}
+body
+{
+	background-color: rgba(255,0,0,0.4);
+}
+.login_form
+{
+    background-color: rgba(1,2,3,0.4);
+    width: auto;
+    height: 500px;
+    margin-left: 200px;
+    margin-right: 200px;
+
+}
+.login_form_field
+{
+    width: auto;
+    height: 400px;
+    background-color: rgba(1,1,1,0.6);
+    text-align: center;
+}
